@@ -27,7 +27,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/ufukasia/VO-with-SuperGlue-on-EuRoC-MAV-dataset.git)
+   git clone https://github.com/ufukasia/VO-with-SuperGlue-on-EuRoC-MAV-dataset.git
    cd VO-with-SuperGlue-on-EuRoC-MAV-dataset
    ```
 
